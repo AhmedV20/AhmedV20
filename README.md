@@ -130,7 +130,6 @@
   <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-green?style=for-the-badge&logo=python" alt="Exploring AI & ML" />
   <img src="https://img.shields.io/badge/Building-Web%20Applications-orange?style=for-the-badge&logo=html5" alt="Building Web Applications" />
 </p>
-
 <br />
 
 <!--
@@ -150,7 +149,7 @@
 <br />
 -->
 
----
+
 
 ### 🎯 Goals & Aspirations <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">
 
