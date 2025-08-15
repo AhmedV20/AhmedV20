@@ -134,13 +134,13 @@
 <br />
 
 ---
+<!--
 ### 🕛 WakaTime
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedV20" alt="WakaTime Stats" />
 </p>
 
-<!--
 <details>
   <summary>View detailed WakaTime dashboard</summary>
   <p align="center">
