@@ -1,3 +1,17 @@
+#  ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&pause=1000&random=true&width=500&lines=I'm+Ahmed+%F0%9F%91%8B;Fresh+Graduate+Soon+%F0%9F%8E%93)                              
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></p>
+
+<div id="badges">
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmed-mahmouddev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://x.com/A7medV19">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AhmedV20&style=flat-square&color=blue" alt="Profile Views"> <br/>
+</p>
+</div>
+
 # 💫 About Me:
 🌱 I’m Ahmed — an aspiring **Web Developer** passionate about building impactful solutions.  <br>Currently learning ( C# | .NET ) and exploring the basics of ( AI & Machine Learning), with a focus on integrating intelligent features into web applications.<br><br>🛠 Experience includes working on a web-based platform where users can register, book appointments with doctors of their choice, and where doctors can manage bookings via an admin panel.<br><br>💡 Interests:  <br>- Backend Development — mastering .NET and scalable web architecture.  <br>- AI & Machine Learning — applying intelligent features to real-world applications.  <br>- Full-Stack Development — aiming to grow into a well-rounded developer.  <br><br>✨ Personal Traits:  <br>- Highly patient and persistent in solving problems.  <br>- Passionate about technology since a young age and constantly seeking to improve.  
 
