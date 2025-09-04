@@ -1,4 +1,4 @@
-#  ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&pause=1000&random=true&width=500&lines=Hi,+I'm+Ahmed+%F0%9F%91%8B;Fresh+Graduate+Soon+%F0%9F%8E%93)                              
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&pause=3000&width=500&lines=Hi,+I'm+Ahmed+%F0%9F%91%8B;Fresh+Graduate+Soon+%F0%9F%8E%93)                              
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></p>
 
 <div id="badges">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedV20&style=flat-square&color=blue" alt="Profile Views"> <br/>
+    <img src="https://komarev.com/ghpvc/?username=AhmedV20&style=flat-square&color=red" alt="Profile Views"> <br/>
 </p>
 </div>
 
@@ -60,8 +60,8 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> 
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -121,6 +121,21 @@
 
 </div>
 
+---
+### ⏱️🧑‍💻 WakaTime
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedv19" alt="WakaTime Stats" />
+</p>
+
+<!--
+<details>
+  <summary>View detailed WakaTime dashboard</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@AhmedV20/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%" alt="Detailed WakaTime Dashboard" />
+  </p>
+</details>
+-->
 
 ---
 ### 🚀 Current Focus
@@ -132,22 +147,7 @@
 </p>
 <br />
 
-<!--
-### 🕛 WakaTime
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmedV20" alt="WakaTime Stats" />
-</p>
-
-<details>
-  <summary>View detailed WakaTime dashboard</summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@AhmedV20/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%" alt="Detailed WakaTime Dashboard" />
-  </p>
-</details>
-
-<br />
--->
 
 
 
