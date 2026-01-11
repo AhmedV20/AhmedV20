@@ -3,9 +3,16 @@
 
 <div id="badges">
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-mahmouddev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://x.com/A7medV19">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></p>
+
+<p align="center">
+  <a href="https://ahmedv20.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Site" />
+  </a>
+  <a href="mailto:ahmedmh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work" />
+</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AhmedV20&style=flat-square&color=red" alt="Profile Views"> <br/>
@@ -20,15 +27,15 @@
 <br />
 
 	  
-- 🌱 I'm Ahmed — an aspiring **Web Developer** passionate about building impactful solutions.
+- 🌱 I'm Ahmed — an aspiring **Web Developer** passionate about crafting clean, scalable, and efficient software solutions.
   
-- 🛠  Currently learning **C# | .NET** and exploring the basics of **AI & Machine Learning**, with a focus on integrating intelligent features into web applications.
+- 🛠  Currently mastering **C# | .NET** with a strong focus on **Backend Development & RESTful APIs**, while also exploring the basics of **AI & Machine Learning** to integrate intelligent features into web applications.
   
-- 🧑🏻‍💻 Experience includes working on a web-based platform where users can register, book appointments with doctors of their choice, and where doctors can manage bookings via an admin panel.
+- 🧑🏻‍💻 Experience includes building [**Learnify**](https://github.com/AhmedV20/Learnify) — a learning platform backend API featuring Clean Architecture, JWT authentication, role-based access control, and scalable module design.
 	  
 - 🧠 **Interests:**
 	- **Backend Development**  
-	  Mastering .NET and scalable web architecture to build robust server-side applications.
+	  Mastering .NET, Clean Architecture, and SOLID principles to build robust server-side applications and production-ready APIs.
 	
 	- **AI & Machine Learning**  
 	  Applying intelligent features to real-world applications and exploring ML integration in web development.
@@ -48,40 +55,57 @@
 ### 🛠️ | Languages and Tools:
 <br />
 <p align="left">
-<!-- Programming Languages -->
+
+<!-- Languages -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
 </a>
 
-<!-- Frameworks -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+<!-- Backend Framework -->
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/> 
 </a>
+
+<!-- Frontend -->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
 </a>
 
 <!-- Databases -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
 </a>
 
-<!-- Tools -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<!-- Cloud & DevOps -->
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2" width="40" height="40"/> 
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/> 
+</a>
+
+<!-- Version Control -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </a>
+
+<!-- APIs & Communication -->
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger / OpenAPI" width="40" height="40"/> 
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
+</a>
+
 </p>
 
 ---
@@ -96,6 +120,10 @@
   <a href="https://www.linkedin.com/in/ahmed-mahmouddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahmedmh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -104,19 +132,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedV20&hide_border=true&theme=radical" alt="Top Languages" width="30%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmedV20&layout=donut" width="30%"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedV20&hide_border=true&theme=github-compact" alt="Activity Graph" width="66%"/>
 
-<br>
+<br> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AhmedV20&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedV20&row=2&column=4&theme=radical" alt="GitHub Trophies" width="80%" />
+<a href="https://github.com/lucthienphong1120/github-trophies">
+  <img src="https://github-trophies.vercel.app/?username=AhmedV20" alt="GitHub Trophies" width="80%" />
 </a>
 
 </div>
@@ -125,47 +151,23 @@
 ### ⏱️🧑‍💻 WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedv19" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ahmedv19" alt="WakaTime Stats" />
 </p>
 
-<!--
+
 <details>
   <summary>View detailed WakaTime dashboard</summary>
   <p align="center">
-    <img src="https://wakatime.com/share/@AhmedV20/59f67f85-010a-4267-a9e6-50a27326c520.svg" width="50%" alt="Detailed WakaTime Dashboard" />
+    <img src="https://wakatime.com/share/@ahmedv19/e94784f5-ad6f-4cfc-9875-9aca0473ad28.svg" width="80%" alt="Detailed WakaTime Dashboard" />
   </p>
 </details>
--->
+
 
 ---
-### 🚀 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-C%23%20%26%20.NET-blue?style=for-the-badge&logo=dotnet" alt="Learning C# & .NET" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-green?style=for-the-badge&logo=python" alt="Exploring AI & ML" />
-  <img src="https://img.shields.io/badge/Building-Web%20Applications-orange?style=for-the-badge&logo=html5" alt="Building Web Applications" />
-</p>
-<br />
-
-
-
-
-
-### 🎯 Goals & Aspirations <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Goal-Master%20.NET%20Development-brightgreen?style=for-the-badge" alt="Master .NET Development" />
-  <img src="https://img.shields.io/badge/Goal-Integrate%20AI%20in%20Web%20Apps-blue?style=for-the-badge" alt="Integrate AI in Web Apps" />
-  <img src="https://img.shields.io/badge/Goal-Become%20Full--Stack%20Developer-purple?style=for-the-badge" alt="Become Full-Stack Developer" />
-</p>
-
-<br/>
 
 <p align="center">
   <em>"Highly patient and persistent in solving problems, passionate about technology since a young age and constantly seeking to improve."</em>
 </p>
-
----
  
 
 <!---
